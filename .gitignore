@@ -54,4 +54,3 @@ terraform.rc
 ./*/terraform.rc
 
 ./*/.terraform.lock.hcl
-**/.terraform.lock.hcl
